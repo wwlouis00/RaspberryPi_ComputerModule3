@@ -1,7 +1,4 @@
-# RaspberryPi_ComputerModule3
----
-
-## Raspberry Pi Compute Module 3（RaspberryPi_ComputerModule3）介紹
+# Raspberry Pi Compute Module 3（RaspberryPi_ComputerModule3）介紹
 
 Raspberry Pi Compute Module 3（CM3）是一款基於 Raspberry Pi 3 的計算模塊，旨在提供更大的靈活性和可擴展性。它採用了與 Raspberry Pi 3 相同的處理器和記憶體，但以更小的尺寸和更強大的運算性能為特點。
 
