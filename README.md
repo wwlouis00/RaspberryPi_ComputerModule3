@@ -1,8 +1,8 @@
 # Raspberry Pi Compute Module 3（RaspberryPi_ComputerModule3）介紹
 
-Raspberry Pi Compute Module 3（CM3）是一款基於 Raspberry Pi 3 的計算模塊，旨在提供更大的靈活性和可擴展性。它採用了與 Raspberry Pi 3 相同的處理器和記憶體，但以更小的尺寸和更強大的運算性能為特點。
+- Raspberry Pi Compute Module 3（CM3）是一款基於 Raspberry Pi 3 的計算模塊，旨在提供更大的靈活性和可擴展性。它採用了與 Raspberry Pi 3 相同的處理器和記憶體，但以更小的尺寸和更強大的運算性能為特點。
 
-### 主要特點
+## 主要特點
 
 - **處理器和內存**：CM3配備了與Raspberry Pi 3相同的1.2 GHz四核ARM Cortex-A53處理器和1 GB LPDDR2內存，這使它能夠處理複雜的計算和多任務運算。
 
@@ -12,7 +12,7 @@ Raspberry Pi Compute Module 3（CM3）是一款基於 Raspberry Pi 3 的計算�
 
 - **計算模塊設計**：CM3的設計適用於需要更高度自定義硬體的用例，可以在自己的底板上進行嵌入和整合。
 
-### 應用領域
+## 應用領域
 
 - **工業自動化**：CM3適用於工業自動化領域，可以用於監控、控制和數據收集等任務。
 
@@ -20,10 +20,10 @@ Raspberry Pi Compute Module 3（CM3）是一款基於 Raspberry Pi 3 的計算�
 
 - **物聯網（IoT）**：CM3可以用於開發連接到物聯網的設備，例如傳感器、智能家居設備和監控系統。
 
-### 使用和開發
+## 使用和開發
 
 開發者可以使用Raspberry Pi官方提供的文檔和工具來開發和編程CM3。CM3可運行多種操作系統，包括Raspbian（基於Debian的Raspberry Pi操作系統）和其他自定義操作系統。
 
-### 總結
+## 總結
 
 Raspberry Pi Compute Module 3（CM3）是一款強大的計算模塊，將高性能的處理器和記憶體封裝在小巧的外殼中，適用於各種嵌入式計算和自定義項目。
