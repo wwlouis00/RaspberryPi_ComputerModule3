@@ -1,29 +1,36 @@
-# Raspberry Pi Compute Module 3介紹
+# Raspberry Pi Compute Module 3 Introduction
 
-- Raspberry Pi Compute Module 3（CM3）是一款基於 Raspberry Pi 3 的計算模塊，旨在提供更大的靈活性和可擴展性。它採用了與 Raspberry Pi 3 相同的處理器和記憶體，但以更小的尺寸和更強大的運算性能為特點。
+- The Raspberry Pi Compute Module 3 (CM3) is a computing module based on the Raspberry Pi 3, designed to offer greater flexibility and scalability. It uses the same processor and memory as the Raspberry Pi 3, but features a smaller form factor and enhanced computing performance.
 
-## 主要特點
+## Key Features
 
-- **處理器和內存**：CM3配備了與Raspberry Pi 3相同的1.2 GHz四核ARM Cortex-A53處理器和1 GB LPDDR2內存，這使它能夠處理複雜的計算和多任務運算。
+- **Processor and Memory**:  
+  The CM3 is equipped with the same 1.2 GHz quad-core ARM Cortex-A53 processor and 1 GB LPDDR2 memory as the Raspberry Pi 3, enabling it to handle complex computations and multitasking efficiently.
 
-- **運算能力**：CM3的處理器提供了更高的運算性能，適用於要求較高計算能力的項目，如數據分析、機器學習和嵌入式計算等。
+- **Computational Power**:  
+  The processor in the CM3 delivers higher computational performance, making it suitable for projects that demand significant processing power, such as data analysis, machine learning, and embedded computing.
 
-- **尺寸和連接性**：CM3的尺寸小巧，更適合於嵌入式和自定義項目。它具有多種連接性選項，包括標準的GPIO引腳、USB、HDMI和更多。
+- **Size and Connectivity**:  
+  With its compact size, the CM3 is ideal for embedded and custom projects. It offers a variety of connectivity options, including standard GPIO pins, USB, HDMI, and more.
 
-- **計算模塊設計**：CM3的設計適用於需要更高度自定義硬體的用例，可以在自己的底板上進行嵌入和整合。
+- **Computing Module Design**:  
+  The design of the CM3 is intended for use cases that require highly customized hardware integration, allowing developers to embed and integrate it onto their own custom baseboards.
 
-## 應用領域
+## Application Areas
 
-- **工業自動化**：CM3適用於工業自動化領域，可以用於監控、控制和數據收集等任務。
+- **Industrial Automation**:  
+  The CM3 is well-suited for industrial automation, where it can be used for monitoring, control, and data collection tasks.
 
-- **嵌入式系統**：由於其小尺寸和運算能力，CM3是開發嵌入式系統的理想選擇，如機器控制、機器人和嵌入式計算設備等。
+- **Embedded Systems**:  
+  Due to its compact size and robust computing power, the CM3 is an ideal choice for developing embedded systems such as machine control, robotics, and other embedded computing devices.
 
-- **物聯網（IoT）**：CM3可以用於開發連接到物聯網的設備，例如傳感器、智能家居設備和監控系統。
+- **Internet of Things (IoT)**:  
+  The CM3 can be used to develop IoT-connected devices, including sensors, smart home gadgets, and monitoring systems.
 
-## 使用和開發
+## Usage and Development
 
-開發者可以使用Raspberry Pi官方提供的文檔和工具來開發和編程CM3。CM3可運行多種操作系統，包括Raspbian（基於Debian的Raspberry Pi操作系統）和其他自定義操作系統。
+Developers can leverage the official documentation and tools provided by Raspberry Pi to develop and program the CM3. The module supports multiple operating systems, including Raspbian (the Debian-based operating system for Raspberry Pi) and other custom OS options.
 
-## 總結
+## Summary
 
-Raspberry Pi Compute Module 3（CM3）是一款強大的計算模塊，將高性能的處理器和記憶體封裝在小巧的外殼中，適用於各種嵌入式計算和自定義項目。
+The Raspberry Pi Compute Module 3 (CM3) is a powerful computing module that encapsulates a high-performance processor and memory in a compact form factor, making it suitable for a wide range of embedded computing and custom projects.
